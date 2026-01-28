@@ -16,7 +16,6 @@
           (python3.withPackages (ps: with ps; [
             ipykernel
             jupyter
-            # Add your libraries here
             numpy
             pandas
             matplotlib

@@ -1,0 +1,24 @@
+# Core
+numpy
+pandas
+matplotlib
+pillow
+tqdm
+pyyaml
+
+# COCO helpers
+pycocotools
+
+# Notebooks
+jupyter
+ipykernel
+
+# Optional (nice-to-have utilities)
+opencv-python
+scikit-learn
+
+# Training / logging (Task 2)
+ultralytics
+tensorboard
+torch
+torchvision

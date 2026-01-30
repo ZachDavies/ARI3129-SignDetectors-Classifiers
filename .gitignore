@@ -1,20 +1,9 @@
 .venv/
-flake.lock
-
-# Python bytecode
-__pycache__
-*.py[cod]
-*$py.class
-
 data/
-
-yolo12n.pt
-
 outputs/
-
-flake.nix
-flake.lock
 runs/
 
-flake.lock
 flake.nix
+flake.lock
+
+yolo12n.pt

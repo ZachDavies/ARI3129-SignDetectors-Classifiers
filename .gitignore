@@ -5,3 +5,13 @@ flake.lock
 __pycache__
 *.py[cod]
 *$py.class
+
+data/
+
+yolo12n.pt
+
+outputs/
+
+flake.nix
+flake.lock
+runs/

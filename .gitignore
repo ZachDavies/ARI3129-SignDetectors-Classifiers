@@ -5,5 +5,6 @@ runs/
 
 flake.nix
 flake.lock
+requirements.txt
 
 yolo12n.pt

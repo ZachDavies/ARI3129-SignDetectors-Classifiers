@@ -36,3 +36,5 @@ This repository contains the dataset preparation, training, and evaluation scrip
 * **`2a_retinanet_hayley.ipynb`**: TorchVision RetinaNet training pipeline for traffic sign detection using a COCO-compatible dataset interface, custom class mapping/head adaptation, COCO-style evaluation, and qualitative prediction visualisations.
 
 * **`2b_mountingType_hayley.ipynb`**: Attribute-classification pipeline for predicting traffic sign mounting type (wall-mounted vs pole-mounted) using Label Studio attribute data from signs.json, including dataset preparation, training, evaluation metrics, and per-image mounting-type analytics.
+
+* **`2c_results_comparison.ipynb`**: Aggregates performance metrics (mAP50, mAP50-95, Precision, Recall) from all object detection models (Task 2a). Generates comparative visualizations including ranked bar charts for each metric and a final summary table to identify the best-performing architecture.

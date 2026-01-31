@@ -1,5 +1,5 @@
 {
-  description = "YOLOv8 Pip-Based Environment (Binary Wheels)";
+  description = "Pip-Based Environment (Binary Wheels)";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
